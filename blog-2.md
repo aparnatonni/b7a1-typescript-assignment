@@ -1,4 +1,4 @@
-# How Generics Let we Build Reusable, Strictly-Typed Components in TypeScript
+# How Generics Let us Build Reusable, Strictly-Typed Components in TypeScript
 
 ## Introduction
 
